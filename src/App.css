@@ -1,3 +1,19 @@
 .App {
   text-align: center;
+  color: aqua;
+}
+#titulo{
+text-align: center;
+}
+#planetas{
+  text-align: center;
+}
+#missoes{
+display: inline-block;
+flex-wrap: wrap;
+align-content: space-around;
+}
+#todas-missoes{
+  
+  
 }
